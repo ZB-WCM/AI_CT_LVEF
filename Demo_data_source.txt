@@ -1,0 +1,3 @@
+﻿* Preprocessed input images to shape (164,164,164) [A demo of preprocessing is provided using open source Chest CT images (Link, Paper).]
+   * Link: https://github.com/hasibzunair/3D-image-classification-tutorial?tab=readme-ov-file 
+   * Paper: https://www.medrxiv.org/content/10.1101/2020.05.20.20100362v1
